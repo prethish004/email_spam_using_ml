@@ -55,3 +55,8 @@ Models predicted if the messages were `Spam` or `Ham`.
 ![image](https://github.com/user-attachments/assets/4e57f4a8-71fc-4547-9e0e-8f8db8f69d25)
 ![image](https://github.com/user-attachments/assets/83ec4e52-870b-44c3-b33a-f50c8beb78b1)
 
+🌐 Web App with Streamlit
+A Streamlit app is included to allow real-time SMS spam detection via a simple UI.
+
+- **✅ Live Demo**: [`live`](https://emailspamusingml-23iq5tbmka7bev3ejrytsk.streamlit.app/)
+👉 Click to Open Streamlit App
